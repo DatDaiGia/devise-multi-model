@@ -1,0 +1,1 @@
+# devise-multi-model
